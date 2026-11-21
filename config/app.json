@@ -1,6 +1,12 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
-  "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "appName": "Soccer manager 2026",
+  "packageName": "com.web2apk.soccermanager2026a0l1",
+  "orientation": "portrait",
+  "permissions": [
+    "notification",
+    "camera",
+    "audio",
+    "location",
+    "wifi_state"
+  ]
 }
